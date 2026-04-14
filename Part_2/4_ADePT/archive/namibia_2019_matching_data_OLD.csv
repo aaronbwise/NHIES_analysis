@@ -1,0 +1,194 @@
+﻿Food item code in Household Survey (item_cod),Food item description in Household Survey (desc),Reference Food Composition Table (FCT),Food code in FCT,Food description in FCT,Food Item Index Matching (Read the text in the comment of this cell),Refuse factor (refuse),Item Group (item_grp),Water (grams),Ash (grams),Protein (grams) (fd_pro),Total Fat (grams) (fd_fat),Total Fiber (grams) (fd_fib),Alcohol (grams) (fd_alc),Carbohydrates including fiber (Total) (grams),Available Carbohydrates by difference (grams) (fd_car),Calories (Kcal),Computed calories (Kcal) (fd_kcal)
+1111.01,Rice,From West African FCT,01_037,"Rice, white, raw",,0,,12.1,0.7,6.9,0.6,1.4,0,78.3,78.3,349,349
+1111.02,Malt/ Mealie Rice,USDA FCT,8083,"CEREALS RTE,MALT-O-MEAL,CORN BURSTS",,0,,0.9,1.1,4,0.34,1.8,0,93.7,91.86,394,390.1
+1112.01,"Bread (white, brown, whole wheat, rye, maize, etc.)",SA_FCT,3210,"Bread/Rolls, white (fortified)",,,,,,,,,,,,,
+1112.02,Brotchen,From West African FCT,01_045,"Bread/rolls, white",,0,,34.3,1.7,9.1,2.7,2.7,0,49.6,49.5,264,264.1
+1112.03,"Biscuits, rusks",WAFCT,01_045,"Bread/rolls, white",,0,,34.3,1.7,9.1,2.7,2.7,0,49.6,49.5,264,264.1
+1112.04,Vetkoek,SA_FCT,3257,"Vetkoek, home-made (cake flour, water)",,,,,,,,,,,,,
+1112.09,"Traditional bread, ash bread, oshikwiila, oshima, omungome",SA_FCT,3285,"Bread/Rolls, white, high protein",,,,,,,,,,,,,
+1113.01,"Macaroni, spaghetti, noodles",SA_FCT,3262,"Macaroni/Spaghetti, cooked",,,,,,,,,,,,,
+1114.01,Cakes (all types),SA_FCT,3288,"Cake, butter, plain, home-made (WM, HM)",,,,,,,,,,,,,
+1114.02,Pies & pizzas,USDA,18946,"PIE CRUST,REFR,REG,BKD",,0,,7.96,1.42,3.41,28.69,1.4,0,57.12,57.12,481,503.13
+1115.01,Breakfast cereals (all types),USDA,8023,"CEREALS RTE,KELLOGG,KELLOGG'S CRACKLIN' OAT BRAN",,0,,89.93,0.26,0.77,0.1,1.1,0,7.84,7.84,36,37.54
+1115.02,"Baby foods, cereals",WAFCT,10_012,"Infant formula, powder, for 6 months",,0,,2,4.6,17.6,19.7,0,0,56.1,56.1,472,472.1
+1115.03,Bread/ cake flour (all types),SA_FCT,3273,"Wheat flour, cake flour",,,,,,,,,,,,,
+1115.04,Maize meal/ grain/ samp,SA_FCT,4409,"Maize meal, sifted, raw (white, fortified)",,,,,,,,,,,,,
+1115.05,Mahangu meal/ grain/ samp,WAFCT,01_017,"Pearl millet, whole grain, raw (with bran)",,0,,10.1,1.5,8.8,5.8,9,0,64.8,64.8,364,364.6
+1115.06,Sorghum meal/ grain,WAFCT,01_039,"Sorghum, whole grain, raw ",,0,,10.9,2.4,10.5,3.3,9.9,0,63,63,344,343.5
+1115.07,Cassava flour,WAFCT,02_004,Cassava flour,,0,,12.7,2.2,1.9,0.5,3.9,0,78.8,78.8,335,335.1
+1119.01,Other bread & cereals (specify),SA_FCT,3239,"Oats, rolled or oatmeal, cooked",,,,,,,,,,,,,
+1121.01,Beef,From WestAfrican FCT,07_005,Average beef from average tabs,,0,,64.3,1,18.4,18,0,0,29,0,235,235.6
+1122.01,Pork,From WestAfrican FCT,07_005,"Pork, meat, approx. 40 % fat, boneless, raw",,0,,46.6,1.2,12.3,38.8,0,0,1.1,1.1,398,402.8
+1123.01,Goat meat,From WestAfrican FCT,07_046,"Goat, meat, raw",,0.26,,68,1.1,17.5,10.6,0,0,0,2.8,165,176.6
+1123.02,Mutton/ Lamb,WAFCT,07_049,"Lamb/mutton, meat, moderately fat, boiled* (without salt)",,0.25,,47.5,1.5,24.6,25.2,0,0,1.2,1.2,325,330
+1124.01,Chicken,WAFCT,07_003,"Chicken, dark meat, flesh, raw",,0,,72.9,1,20.4,5.9,0,0,-0.2,0,134,134.7
+1124.02,"Birds, other than chicken",USDA,5306,"Poultry food products, ground turkey, cooked",,0,,62.07,1.26,27.37,10.4,0,0,0,0,203,203.08
+1125.01,Bacon,From the West Africa FCT,07_005,"Pork, meat, approx. 40 % fat, boneless, raw",,1,,46.6,1.2,12.3,38.8,0,0,1.1,1.1,398,402.8
+1125.02,Ham,USDA,7027,"HAM,CHOPPED,NOT CANNED",,0,,65.3,3.7,16.5,10.3,0,0,4.2,4.2,180,175.5
+1125.03,Biltong,WAFCT,07_009,"Beef, meat, lean, boneless, raw",,0,,73.2,1,21.7,4.3,0,0,0,0,126,125.5
+1125.04,"Smoked meat, other than bacon & ham",WAFCT,07_063,"Sausage, wiener (beef, pork, chicken) canned",,0,,64.9,2.6,10.5,19.4,0,0,2.6,2.6,227,227
+1125.05,Polony,USDA,7027,"HAM,CHOPPED,NOT CANNED",,0,,61.05,0.9,19.33,19.06,0,0,-0.34,0,254,248.86
+1125.06,"Sausages, other than polony",WAFCT,07_063,"Sausage, wiener (beef, pork, chicken) canned",,0,,64.9,2.6,10.5,19.4,0,0,2.6,2.6,227,227
+1125.07,"Offals, meat waste",WFCT,07_021,"Beef, tripe, raw",,0,,84.2,0.6,12.1,3.7,0,0,0,0,81,81.7
+1125.08,Liver & kidneys,From WestAfrican FCT,07_001,"Beef liver, raw",,0,,71,1.3,19.4,4.4,0,0,3.9,3.9,132,132.8
+1126.01,Minced meat,From WestAfrican FCT,07_023,"Beef,  ground, 10 % fat, raw",,0,,69.5,1,20.1,10,0,0,0,0,170,170.4
+1126.02,Canned meat,From WestAfrican FCT,07_025,"Beef, meat, cured, corned, canned",,0,,57.7,2.9,27.1,14.9,0,0,-2.6,0,243,242.5
+1127.01,Game/ Iguana,USDA,17164,"Game meat,Deer, raw",,0,,73.57,1.16,22.96,2.42,0,0,-0.11,0,120,113.62
+1127.02,Dog,From WestAfrican FCT,07_005,"Pork, meat, approx. 40 % fat, boneless, raw",,0,,46.6,1.2,12.3,38.8,0,0,1.1,1.1,398,402.8
+1127.03,Donkey,USDA,17170,"Game meat, horse raw",,0,,72.63,0.99,21.39,4.6,0,0,0.39,0.39,133,128.52
+1127.04,Tortoise,USDA,80200,"FROG LEGS,RAW",,0,,81.9,1.4,16.4,0.3,0,0,-2.83E-15,0,81.9,68.3
+1128.01,"Worms (omaungu, omanghandja, omaenghowa, murere, … etc.)",West African,07_056,"Mopanie worm, canned",,0,,77.3,1.7,14.1,3.6,2.6,0,0.39,0.7,97,96.8
+1129.99,Other meat (specify),WAFCT,07_027,"Game meat, dried",,0,,23.4,3.4,66.7,7,0,0,0,0,330,329.8
+1131.01,Fresh fish,From the West Africa FCT,09_041,"Tilapia, raw",,0.45,,76.5,1.7,18.8,2.7,0,0,0,0.3,99,100.7
+1131.02,Frozen fish,From the West Africa FCT,09_003,"Mackerel, raw",,0.29,,72.5,1.4,19.7,5,0,0,0,1.4,124,129.4
+1132.01,"Cray fish, all types",USDA,15145,"CRAYFISH,MXD SP,WILD,RAW",,0,,82.24,1.34,15.97,0.95,0,0,,0,77,72.43
+1132.02,"Snails, crabs",USDA,15227,"CRAB,QUEEN,CKD,MOIST HEAT",,0,,75.1,2.56,23.72,1.51,0,0,,0,115,108.47
+1132.03,Frogs,USDA,80200,"FROG LEGS,RAW",,0,,81.9,1.4,16.4,0.3,0,0,,0,81.9,68.3
+1133.01,Smoked fish,USDA,15035,"Fish,haddock,smoked",,0,,71.48,1.62,25.23,0.96,0,0,0.71,0.71,116,112.4
+1133.02,Kapenta/ Eentangu (fresh),From the West Africa FCT,09_004,"Sardine, raw",,0.48,,74.9,2.5,19.4,2.9,0,0,0,0.3,103,104.9
+1133.03,Dried fish,USDA,35165,"Fish, white fish, dried, Alska Native",,0,,20.59,5.57,62.44,13.44,0,0,-2.04,0,371,370.72
+1134.01,Bottled/ Tinned fish,From the West Africa FCT,09_037,"Sardines in oil, canned (drained solids with bone)",,0,,57.9,3.5,24.7,13.5,0,0,0,0.4,220,221.9
+1139.99,Other amphibians (specify),USDA,80200,"FROG LEGS,RAW",,0,,81.9,1.4,16.4,0.3,0,0,,0,81.9,68.3
+1141.01,Fresh milk,From the West Africa FCT,10_001,"Milk, cow, whole, 3.5 % fat (includes pasteurised, sterilised and UHT)",,0,,87.7,0.8,3.4,3.7,0,0,4.4,4.4,65,64.5
+1141.02,Long life milk,West African FCT,10_001,"Milk, cow, whole, 3.5 % fat (includes pasteurised, sterilised and UHT)",,0,,87.7,0.8,3.4,3.7,0,0,4.3,4.4,65,64.5
+1141.99,Other dairy products (specify),WAFCT,10_021,"Yoghurt, whole milk, with fruits",,0,,80.6,1,3.3,3.2,0.5,0,11.4,11.4,89,88.6
+1142.01,Fresh milk - Low fat,West African FCT,10_013,"Milk, cow, partly skimmed, 1.5 % fat",,0,,89.3,0.8,3.5,1.6,0,0,4.8,4.8,48,47.6
+1142.02,Long life - Low fat,West African FCT,10_014,"Milk, cow,  skimmed, 0.5 % fat",,0,,90.6,0.7,3.5,0.5,0,0,4.7,4.7,37,37.3
+1143.01,Condensed milk,West African FCT,10_015,"Milk, cow, canned, condensed, sweetened",,0,,27.2,1.8,7.9,8.7,0,0,54.4,54.4,328,327.5
+1143.02,Powdered milk,West African FCT,10_017,"Milk, cow powder, skimmed",A2,0,,3.2,7.9,36.2,0.8,0,0,52,51.9,359,359.6
+1143.03,Coffee creamer,West African FCT,10_017,"Milk, cow powder, skimmed",B2,0,,3.2,7.9,36.2,0.8,0,0,52,51.9,359,359.6
+1143.04,Baby milk powdered,West African FCT,10_011,"Infant formula, powder, for 3 months",B2,0,,2,2.8,11.9,27.7,0,0,55.6,55.6,519,519.3
+1144.01,Clotted/ Cultured milk,West African FCT,10_003,"Milk, Goat, Raw",B2,0,,85.8,0.8,3.4,4.5,0,0,5.5,5.5,76,76.1
+1144.02,Yoghurt,West African FCT,10_005,"Yoghurt, whole milk, plain",A,0,,85.3,0.8,3.8,3.4,0,0,6.7,6.7,73,72.6
+1144.03,Traditional sour milk,West African FCT,10_013,"Milk, cow, whole, 3.5 % fat (includes pasteurised, sterilised and UHT)",A2,0,,89.3,0.8,3.5,1.6,0,0,4.8,4.8,48,47.6
+1145.01,"Cheese, all types",West African FCT,10_008,"Cheese, Gouda",A2,0,,41,3.9,24.8,29.5,0,0,0.7,0.8,367,367.9
+1146.01,Cream,West African FCT,10_010,"Cream, 13 % fat",A2,0,,78.5,0.6,2.9,13.5,0,0,4.5,4.5,151,151.1
+1147.01,Eggs,West African FCT,08_001,"Egg, chicken, raw",A2,0,,76.2,1.1,12.6,9.5,0,0,0.7,0.6,139,138.3
+1151.01,Butter,West African FCT,11_001,"Butter, from cow's milk (without salt)",B2,0,,19.2,0.3,0.8,79.6,0,0,0.2,0.1,720,720
+1152.01,Margarine & margarine spreads,West African FCT,11_006,"Margarine, fortified",B2,0,,16.5,1.9,0.2,80.7,0,0,0.7,0.7,730,729.9
+1152.02,Peanut butter,West African FCT,06_025,"Groundnut, combined varieties, shelled, dried,raw (Ghana)",C2,0,,7.2,2.6,22.4,44.5,8.5,0,14.8,14.8,566,566.3
+1154.01,Cooking oil,SA_FCT,3486,"Vegetable oil (50% sunflower,30% maize, 20% peanut)",,,,,,,,,,,,,
+1154.02,Olive oil,West African FCT,11_010,Vegetable oil,A,0,,0,0,0,100,0,0,0,0,900,900
+1155.01,Cooking fats,WAFCT,11_010 ,Vegetable oil,,0,,0,0,0,100,0,0,0,0,900,900
+1155.02,Omaze ongombe,WAFCT,11_001,"Butter, from cow's milk (without salt)",,0,,19.2,0.3,0.8,79.6,0,0,0.2,0.1,720,720
+1155.03,Komazam & sheep tail fat,WAFCT,11_003,Groundnut oil,,0,,0,0,0,100,0,0,0,0,900,900
+1159.99,Other oils & fats (specify),WAFCT,11_003,Groundnut oil,,0,,0,0,0,100,0,0,0,0,900,900
+1161.01,"Citrus fruits (orange, lemon, etc.)",WAFCT,05_016,"Orange, raw",,0.27,,87.8,0.5,0.7,0.3,1.7,0,9,9,45,44.9
+1162.01,Bananas,WAFCT,05_003,"Banana, white flesh, raw",,0.36,,73.6,0.8,1.2,0.2,2,0,22.2,22.2,99,99.4
+1163.01,Apples,WAFCT,05_026,"Apple, with skin, raw",,0.1,,85.6,0.2,0.3,0.2,2.4,0,11.3,11.3,53,53
+1164.01,Pears,USDA,9252,"Pears, raw",,0,,83.71,0.33,0.38,0.12,3.1,0,15.46,12.36,58,58.24
+1165.01,Apricots,USDA,9021,"Apricots, Raw",,0,,86.35,0.75,1.4,0.39,2,0,11.12,9.11,48,49.55
+1165.02,Avocados,KFCT,5003,"Avocado, Ripe, Raw",,0.29,,74,1.9,1.6,19.6,4,0,0,0,185,190.8
+1165.03,Cherries,USDA,9070,"Cherries, Sweet, Raw",,0,,82.25,0.48,1.06,0.2,2.1,0,16.01,13.91,63,65.88
+1165.04,Mangoes,West African FCT,05_036,"Mango, deep orange flesh",A,0.29,,79.7,0.3,0.4,0.2,2.1,0,17.3,17.3,76,76.8
+1165.05,Plums,USDA,9279,"Plums, Raw",,0,,87.23,0.37,0.7,0.28,1.4,0,11.42,10.02,46,48.2
+1165.06,Peaches,KFCT,5027,"Peach, Yellow Fleshed, unpealed, raw",,0.12,,86.7,0.4,1,0.1,1.9,0,9.9,9.9,48,48.3
+1166.01,Strawberries,KFCT,5034,"Strawberry, Raw",,0.04,,90,0.4,0.7,0.2,2.5,0,6.3,6.2,35,34.4
+1166.02,Mulberries,KFCT,5021,"Mullberries, Raw",,0.01,,89.5,0.9,1.6,0.2,2.2,0,5.6,5.6,35,35
+1166.03,Figs,USDA,9089,"Figs, Raw",,0,,79.11,0.66,0.75,0.3,2.9,0,19.18,16.28,74,76.62
+1166.04,Grapes/ Omandjebere (fresh),WAFCT,05_035,"Grapefruit, pulp, raw",,0,,90.7,0.5,0.7,0.1,1.2,0,6.8,6.8,33,33.3
+1166.05,Guavas,WAFCT,05_010,"Guava, fruit, raw",,0.22,,82.9,0.6,1,0.4,5.6,0,9.5,9.5,57,56.8
+1166.06,"Olives, all types",USDA,9195,"Olives, Pickles, CND or BTLD, GRN",,0,,75.28,4.53,1.03,15.32,3.3,0,3.84,0.54,145,150.76
+1166.07,"Capers, all types",USDA,2054,"Cappers, Canned",,0,,83.85,8.4,2.36,0.86,3.2,0,4.89,1.33,23,28.9
+1167.01,"Sweet melons, all types",WAFCT,05_038,"Melon, honeydew, raw",,0.54,,92,0.6,0.6,0.1,0.8,0,5.9,5.9,29,28.5
+1167.02,Watermelons,WAFCT,05_038,"Melon, honeydew, raw",,0.54,,92,0.6,0.6,0.1,0.8,0,5.9,5.9,29,28.5
+1167.03,Pineapples,WAFCT,05_018,"Pineapple, Pulp, Raw",,0.49,,85.8,0.3,0.4,0.2,1.3,0,12,12,54,54
+1167.99,Passion fruit,KFCT,5025,"Passion fruit, dark purple skin, raw",,0.48,,75.7,0.8,2.4,0.9,11.7,0,8.7,8.5,75,75.1
+1168.01,Eendunga/ Munganda,West African FCT,06_029,"Palm nut kernel, shelled, raw",C2,0,,13.5,1.5,6.1,55.3,4,0,19.6,19.6,609,608.5
+1168.02,Oombe (bird plum),Kenya NCT,06_029,"Plum nut kernel, shelled, raw",C2,0.07,,86.9,0.4,0.7,0.1,2,0,9.9,9.9,47,47.3
+1168.02,Oombe,KFCT,6029,"plum nut kernel, shelled, raw",,0.07,,86.9,0.4,0.7,0.1,2,0,9.9,9.9,47,47.3
+1168.03,Grapes/ Omandjebere (dry),WAFCT,05_026,"Apple, with skin, raw",,0.1,,85.6,0.2,0.3,0.2,2.4,0,11.3,11.3,53,53
+1168.04,Omauni,WAFCT,05_016,"Orange, raw",,0.27,,87.8,0.5,0.7,0.3,1.7,0,9,9,45,44.9
+1168.05,Omapea,WAFCT,05_026,"Apple, with skin, raw",,0.1,,85.6,0.2,0.3,0.2,2.4,0,11.3,11.3,53,53
+1168.08,Ground nuts/ Eefukwa,WAFCT,03_001,"Bambara groundnut, dried, raw ",,0,,8.4,3.1,20.1,5.9,3.7,0,0,58.8,376,376.1
+1168.09,Omahuku,WAFCT,06_010,"Groundnut, shelled, dried, raw",,0,,6.3,2.3,22.4,45.9,8.5,0,14.6,14.6,578,578.1
+1168.1,Peanuts & other snack nuts,WAFCT,06_010,"Groundnut, shelled, dried, raw",,0,,6.3,2.3,22.4,45.9,8.5,0,14.6,14.6,578,578.1
+1168.1,Peanuts & other snack nuts,WAFCT,06_010,"Groundnut, shelled, dried, raw",,0,,6.3,2.3,22.4,45.9,8.5,0,14.6,14.6,578,578.1
+1168.11,Ekwa/ Mubuyu,WAFCT,05_004,"Baobab, Fruit, Monkey bread, Pulp, Raw",,0.28,,17.7,4.3,2.4,0.6,6.8,0,60.2,68.2,302,301.4
+1168.14,Eenyandi (Jackalberry),USDA,12635,"MIXED NUTS,DRY RSTD,W/PNUTS,W/SALT",,0,,66.93,1.44,9.13,0.09,9.3,0,13.11,13.11,124,108.37
+1168.14,Eenyandi, WAFCT,05_019,Enyandi(jackalBerry),,0.43,,71.4,1,1.6,0.5,0.5,0,25.5,25,110,111.9
+1168.15,Eengungu,USDA,12635,"MIXED NUTS,DRY RSTD,W/PNUTS,W/SALT",,0,,66.93,1.44,9.13,0.09,9.3,0,13.11,13.11,124,108.37
+1168.16,Coconuts,USDA,12104,"Coconut meat, raw",,0,,46.99,0.97,3.33,33.49,9,0,15.23,6.22,354,357.61
+1168.17,Mixed nuts,USDA,12135,"Mxd nuts, dry rstd, w/pnuts, wo/salt",,0,,1.75,4.15,17.3,51.45,9,0,25.35,16.35,594,615.65
+1168.19,Dried figs,USDA,9094,"Figs,dried,uncooked",,0,,30.05,1.86,3.3,0.93,9.8,0,63.87,54.06,249,257.41
+1168.2,Dried pears,USDA,9259,"Pears, dried, sulfured, unckd",,0,,26.69,1.11,1.87,0.63,7.5,0,69.7,62.2,262,276.95
+1168.22,Dried dates,WAFCT,05_031,"Dates, dried",,0,,10.7,1.6,2.3,0.3,6.9,0,70.1,78.2,307,338.5
+1168.99,"Dried fruits, other",USDA,9188,"Fruit, MXD, Prune, Apricot & Pear, Dried",,0,,31.18,1.82,2.46,0.49,7.8,0,64.06,56.25,243,254.85
+1169.01,Tinned fruits,USDA,9187,"Fruit,MXD,(Peach &Pear, PNA, PPL,), CND,HVY Syrup, SOL and Liquids",,0,,80.56,0.21,0.37,0.1,1,0,18.76,17.76,72,75.42
+1169.02,Frozen fruits,USDA,9189,"Fruit,mxd, (pch, cher-swt & sr, raspb, grape,boys), frz, swtned",,0,,73.73,3.43,1.42,0.18,1.9,0,24.23,19.34,98,88.46
+1169.08,Mixed fruits (fresh),USDA,9187,"Fruit,MXD,(Peach &Pear, PNA, PPL,), CND,HVY Syrup, SOL and Liquids",,0,,80.56,0.21,0.37,0.1,1,0,18.76,17.76,72,75.42
+1169.99,Other fruits & nuts (specify),USDA,12635,"MIXED NUTS,DRY RSTD,W/PNUTS,W/SALT",,0,,66.93,1.44,9.13,0.09,9.3,0,13.11,13.11,124,108.37
+1169.99,Other fruits & nuts (specify),USDA,12635,"Mixed nuts, dry, RSTD,W/pnuts, w/salt",,0,,1.75,4.15,17.3,51.45,9,0,25.35,16.35,594,615.65
+1171.01,Lettuce,WAFCT,04_040,"Lettuce, raw",,0.3,,94.5,0.8,1,0.2,1.2,0,2.3,2.3,18,17.4
+1171.02,Spinach/ Ombindi/ Derere/ Mutete/ Ekaka,WAFCT,04_057,"Spinach, raw",,0.28,,90.9,1.8,2.8,0.6,2.2,0,1.7,1.7,28,27.8
+1171.03,Celery,USDA,11143,"Celery, raw",,0,,95.43,0.75,0.69,0.17,1.6,0,2.97,1.36,16,12.93
+1171.99,Chives/ Grass onion,USDA,11291,"Onions, Spring, Scallions(Inc ttops, & Bulb), raw",,0,,89.83,0.81,1.83,0.19,2.6,0,7.34,4.74,32,33.19
+1172.01,Broccoli,USDA,11090,"Broccoli, raw",,0,,89.3,0.87,2.82,0.37,2.6,0,6.64,4.04,34,35.97
+1172.02,Cabbage,WAFCT,04_005,"Cabbage, raw",,0.2,,91.2,0.8,1.6,0.1,2.6,0,3.7,3.7,28,27.3
+1172.03,Cauliflower,USDA,1135,"Cauliflower , raw",,0,,92.07,0.76,1.92,0.28,2,0,4.97,2.97,25,26.08
+1172.04,Brussels sprout,USDA,111098,"Brussels sprout, raw",,0,,86,1.37,3.38,0.3,3.8,0,8.95,5.15,43,44.42
+1173.01,Aubergine/ Egg plant,USDA,11209,"Egg plant, Raw",,0,,92.41,0.7,0.01,0.19,3.4,0,5.7,3.29,24,21.71
+1173.02,Beans (fresh),WAFCT,04_003,"Beans, green raw",,0.17,,87.9,1.2,3.1,0.2,2.5,0,5.1,5.1,40,39.6
+1173.03,Cucumber,WAFCT,04_032,"Cucumber, raw",,0.19,,95.5,0.5,0.7,0.1,0.7,0,2.5,2.5,15,15.1
+1173.04,Green pepper/ Paprika,WAFCT,04_049,"Pepper, sweet, green, raw",,0.17,,92.2,0.5,0.9,0.2,2,0,4.2,4.2,26,26.2
+1173.05,"Peppers, Chilli, raw",WAFCT,04_046,"Peppers, chilli, raw",,0.73,,87.3,0.7,1.9,0.3,2.2,0,7.6,7.6,45,45.1
+1173.06,Mealie/ Corn cob,SA_FCT,4130,"Corn, Sweet, White, raw",,0,,75.96,0.62,3.22,1.18,2.7,0,16.32,16.32,86,94.18
+1173.07,Peas,USDA,11304,"Peas, green, raw",,0,,78.86,0.87,5.42,0.4,5.1,0,9.35,9.35,81,72.88
+1173.08,"Pumpkins baby marrows & squashes, all types",WAFCT,04_051,"Pumpkin, squash, raw",,0.7,,91.9,0.7,1,0.1,0.8,0,5.5,5.5,29,28.5
+1173.09,Tomatoes,WAFCT,04_021,"Tomato, red, ripe, raw",,0.09,,93.5,0.6,1,0.2,1.4,0,3.3,3.3,22,21.8
+1174.01,Asparagus,USDA,11011,"Asparagus,raw",,0,,93.22,0.58,2.2,0.12,2.1,0,3.88,1.78,20,21.2
+1174.02,Beetroot,KFCT,2005,"Beetroot,pealed,raw",,0.15,,86.1,1.4,2.17,0.1,3.31,0,6.9,6.92,44,43.88
+1174.03,Carrots,WAFCT,04_006,"Carrot, raw",,0.11,,88.8,1.1,1,0.3,3.1,0,5.7,5.7,35,35.7
+1174.05,Leek,KFCT,4021,"Leeks, bulb and stem, raw",,0.45,,84.5,0.8,1.7,0.4,3.1,0,9.5,9.5,54,54.6
+1174.06,Onion,WAFCT,04_018,"Onion, raw",,0.09,,89.5,0.6,1.1,0.1,1.8,0,6.9,6.9,37,36.5
+1174.08,Turnip,WAFCT,04_068,"Turnip, raw",,0,,73.5,2.8,4.3,0.5,4.1,0,14.8,14.8,89,89.1
+1174.09,Mushroom,USDA,11238,"Mushroom, shiitake,raw",,0,,89.74,0.73,2.24,0.49,2.5,0,6.79,4.3,34,35.57
+1175.01,Beans (dried),WAFCT,03_022,"Beans, white, dried",,0,,8.9,3.9,22.1,1.5,10.3,0,53.3,53.3,335,335.7
+1175.02,Peas (dried),KFCT,3010,"Chick peas, whole, dry, raw",,0,,9.9,3.1,22.3,5.1,25.2,0,34.3,34.4,323,323.1
+1175.03,Lentils,WAFCT,03_030,Lentils,,0.19,,91.3,0.7,0.9,0.2,2.5,0,4.4,4.4,28,28
+1175.09,"Dried vegetables, other",WAFCT,04_031,"Cowpea leaves, dried",,0,,10.3,9.5,24.4,1.9,24.1,0,29.8,29.8,282,282.1
+1176.01,"Tinned/ Pickled vegetables (e.g. cucumbers, onions, garlic, mixed)",USDA,11941,"Picles, cucumbers, sour",,0,,94.08,3.13,0.33,0.2,1.2,0,2.26,1.06,11,9.76
+1177.01,"Potatoes, English",WAFCT,02_009,"Potato, raw",,0.16,,77.8,1.5,1.9,0.1,1.8,0,16.9,16.9,80,79.7
+1178.01,Sweet potatoes,WAFCT,02_022,"Sweet potato, pale yellow, raw",,0.16,,69.2,0.9,1.5,0.2,3,0,25.2,25.2,115,114.6
+1178.02,Chips & crisps,KFCT,15110,"Potato, chips",,0,,32.1,1.9,4.8,13.6,3.3,0,44.4,44.3,326,325.4
+1178.03,Cassava,USDA,11134,"Cassava, raw",,0,,59.68,0.6,1.36,0.28,1.8,0,38.06,36.28,160,156.68
+1178.05,Frozen vegetables,USDA,11584,"Vegetables, MXD, FRZ, CKD, BLD, DRND,WO/SALT",,0,,83.23,0.67,2.86,0.15,4.4,0,13.09,8.69,65,56.35
+1179.08,Mixed vegetables,USDA,43312,"Vegetables,MXD, (Corn, lima, bns, Peas, GRN BNS, CRRT) CND, NOSALT",,0,,90.2,0.89,1.4,0.2,3.1,0,7.31,4.21,37,30.44
+1179.99,Other vegetables & tubers (specify),SA_FCT,3781,"Average, other vegetables, boiled",,,,,,,,,,,,,
+1181.01,Sugar,WAFCT,13_002,Sugar,,0,,0,0.01,0,0,0,0,99.99,99.99,400,399.96
+1181.02,Sugar cane,KFCT,11002,"Sugar cane, juice, raw",,0,,90.2,0.4,0.1,0.2,0.3,0,8.5,8.8,37,38
+1181.03,Icing sugar,USDA,19336,"Sugars, powdered",,0,,0.23,0.01,0,0,0,0,99.77,99.76,389,399.04
+1181.09,"Other (sugar weed, etc.)", KFCT,11002,"Sugar cane, juice, raw",,0,,90.2,0.4,0.1,0.2,0.3,0,8.5,8.8,37,38
+1182.01,Honey,WAFCT,13_001 ,Honey,,0,,2,3.6,9,2.7,2.5,0,80.2,80.2,386,386.1
+1182.02,Jam,USDA,19297,JAMS AND PRESERVES,,0,,30.47,0.23,0.37,0.07,1.1,0,,67.76,275,275.35
+1183.01,Chocolate,USDA,19081,"CANDIES,SWEET CHOCOLATE",,0,,0.5,1,3.9,34.2,5.5,0,,54.9,550,554
+1184.01,Sweets,USDA,19074,"CANDIES,CARAMELS",,0,,8.5,1.8,4.6,8.1,0,0,77,77,382,399.3
+1185.01,Ice cream,WAFCT,10_010,"Cream, 13 % fat",,0,,78.5,0.6,2.9,13.5,0,0,4.5,4.5,151,151.1
+1186.99,Other sweeteners (specify),USDA,19906,"SWEETENERS,FOR BAKING,BROWN,CONTAINS SUGAR & SUCRALOSE",,0,,2.44,0.45,0,0,,0,97.11,97.11,388,388.44
+1191.01,Mayonnaise,USDA,43598,"MAYONNAISE DRSNG,NO CHOL",,0,,21.7,0.4,0,77.8,0,0,0.1,0.1,688,700.6
+1191.02,Tomato Sauces,USDA,6973,"SAUCE,TOMATO CHILI SAU,BTLD,NO SALT,LO NA",,0,,68,0.48,2.5,0.3,0.5,0,28.22,28.22,104,126.58
+1191.03,Vinegar,WAFCT,13_003,Vinegar,,0,,98.7,0.2,0.4,0,0,0,0.7,0.7,5,4.4
+1191.08,Salad dressings,USDA,43599,"SALAD DRSNG,MAYO DRSNG,DIET,NO CHOL",,0,,39.9,1.9,0.9,33.4,0,0,23.9,23.9,390,399.8
+1192.01,Salt,SA_FCT,4288,"Salt, table, iodised",,,,,,,,,,,,,
+1192.02,Spices & condiments,WFCT,13_016,"Spices, mix, ground",,0,,8.5,4.7,6.1,8.7,21.6,0,50.4,50.4,348,347.5
+1192.03,Garlic,WFCT,04_015,"Garlic, raw",,0.13,,64.3,1.3,6.8,0.4,2.3,0,24.9,24.9,135,135
+1193.02,Yeast,WFCT,13_017,"Yeast, dried",,0,,5,8.3,35.6,1.5,19.7,0,29.9,29.9,315,314.9
+1193.05,"Custards, puddings, jelly & gelatine",USDA,18969,"CREAM PUFF,ECLAIR,CUSTARD OR CRM FILLED,ICED",,0,,38.64,1,4.41,18.52,0.9,0,36.53,36.53,334,332.24
+1193.06,Ready-made soup,USDA,6147,"SOUP,BF MUSHROOM,CND,COND",,0,,85.5,2.3,4.6,2.4,0.2,0,5,5,61,60.4
+1193.07,Powdered soup,USDA,6147,"SOUP,BF MUSHROOM,CND,COND",,0,,40.6,1.21,4.05,8.06,0.9,0,45.18,45.18,213,271.26
+1195.99,Other foods (specify),USDA,6147,"SOUP,BF MUSHROOM,CND,COND",,0,,85.5,2.3,4.6,2.4,0.2,0,5,5,61,60.4
+1211.01,Coffee,West African Table ,12_005,"coffee, instant, powder",A,0,,3.1,8.8,15.4,0.4,0,0,72.4,72.3,354,354.4
+1212.01,Tea,SA_FCT,4038,"GOLD PEAK TEA, ICED TEA, SWEET TEA",A,0,,99.8,0,0.1,0,0,0,0,0.1,0,0.8
+1213.01,Chocolate drinks,West African Table ,12_008,"GOLD PEAK TEA, ICED TEA, SWEET TEA",A,0,,99.8,0,0.1,0,0,0,0,0.1,0,0.8
+1219.99,Other infusions (specify),West African Table ,12_008,"GOLD PEAK TEA, ICED TEA, SWEET TEA",A,0,,99.8,0,0.1,0,0,0,0,0.1,0,0.8
+1221.01,Mineral water & ice cubes blocks,West African Table ,12_019,"Water, tap",A,0,,100,0.1,0,0,0,0,0,0,0,0
+1222.01,Soft drinks,SA_FCT,3981,"Juice, orange, unsweetened",A,0,,88.9,0.4,0.7,0.2,0.1,0,9.8,9.7,44,43.6
+1222.99,"Other non-alcoholic drinks (Energade, Powerade) (specify)",SA_FCT,4007,"Juice, orange, unsweetened",A,0,,88.9,0.4,0.7,0.2,0.1,0,9.8,9.7,44,43.6
+1223.01,Fruit juice & squashes,West African Table ,12_011,"Juice, orange, unsweetened",A,0,,88.9,0.4,0.7,0.2,0.1,0,9.8,9.7,44,43.6
+1223.02,Mageu/Oshikundu,SA_FCT,4410,"Maize meal, super, porridge, soft (white, fortified)",A,,,,,,,,,,,,
+1223.99,Other powdered drinks (specify),West African Table ,12_011,"Juice, orange, unsweetened",A,0,,88.9,0.4,0.7,0.2,0.1,0,9.8,9.7,44,43.6
+2111.04,"Local home-made distilled drinks, all types (ombike, kashipembe)",West African Table ,12_004,"Beer, sorghum (est. 3% alcohol)",,0,,94,0.2,0.5,0,0.1,3,2.7,2.2,31,32
+2121.01,Wines,West African Table ,12_006,Palm wine (est. 3.8 % alcohol),,0,,93.7,0.2,0.4,0,0,3.8,2.5,1.9,34,35.8
+2129.99,Other alcoholic beverages (specify),West African Table ,12_003,"Beer, millet (est. 3 % alcohol)",,0,,91,0.3,0.7,0,0.1,3,5.7,4.9,43,43.6
+2131.01,Beer/ Ales/ Ciders,West African Table ,12_001,Beer european (4.4 % alcohol),,0,,93.9,0.1,0.3,0,0,4.4,2,1.3,35,37.2
+2131.99,"Local home-made brew, all types (tombo, epwaka, shafuluka)",West African Table ,12_004,"Beer, sorghum (est. 3% alcohol)",,0,,94,0.2,0.5,0,0.1,3,2.7,2.2,31,32
