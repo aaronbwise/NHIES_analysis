@@ -1,0 +1,154 @@
+label,source,source
+"Bread (white, brown, whole wheat, rye, maize, etc)",Supermarket,0.748561128328379
+"Bread (white, brown, whole wheat, rye, maize, etc)",Shebeen,0.10505344380494593
+"Bread (white, brown, whole wheat, rye, maize, etc)",Open market/ Vendor,0.05277971032825248
+"Bread (white, brown, whole wheat, rye, maize, etc)",From relative,0.02147239263803681
+"Bread (white, brown, whole wheat, rye, maize, etc)",Other (Specify),0.01739295427234204
+"Bread (white, brown, whole wheat, rye, maize, etc)",From employer,0.014641705141989755
+"Bread (white, brown, whole wheat, rye, maize, etc)",Take away,0.01318702169375751
+"Bread (white, brown, whole wheat, rye, maize, etc)",Petrol station,0.009834925052178863
+"Bread (white, brown, whole wheat, rye, maize, etc)",Own produce,0.008032382518499779
+"Bread (white, brown, whole wheat, rye, maize, etc)",Neighbors,0.005881980899373853
+"Bread (white, brown, whole wheat, rye, maize, etc)",Bottle store,0.0016444247675668838
+"Bread (white, brown, whole wheat, rye, maize, etc)",Restaurant/ Hotel,0.000885459490228322
+"Bread (white, brown, whole wheat, rye, maize, etc)",Butchery,0.00041110619189172094
+"Bread (white, brown, whole wheat, rye, maize, etc)",Drought relief,0.00018974131933464043
+"Bread (white, brown, whole wheat, rye, maize, etc)",From nature,3.162355322244007e-05
+Bread/ cake flour (all types),Supermarket,0.8168421052631579
+Bread/ cake flour (all types),Open market/ Vendor,0.04350877192982456
+Bread/ cake flour (all types),Shebeen,0.028771929824561403
+Bread/ cake flour (all types),From employer,0.028771929824561403
+Bread/ cake flour (all types),Other (Specify),0.028771929824561403
+Bread/ cake flour (all types),From relative,0.023859649122807018
+Bread/ cake flour (all types),Take away,0.009824561403508772
+Bread/ cake flour (all types),Own produce,0.0077192982456140355
+Bread/ cake flour (all types),Restaurant/ Hotel,0.0035087719298245615
+Bread/ cake flour (all types),Neighbors,0.0035087719298245615
+Bread/ cake flour (all types),Drought relief,0.002807017543859649
+Bread/ cake flour (all types),Petrol station,0.002105263157894737
+Brotchen,Supermarket,0.8562874251497006
+Brotchen,Take away,0.03473053892215569
+Brotchen,From employer,0.02035928143712575
+Brotchen,From relative,0.019161676646706587
+Brotchen,Open market/ Vendor,0.017964071856287425
+Brotchen,Other (Specify),0.01437125748502994
+Brotchen,Petrol station,0.013173652694610778
+Brotchen,Shebeen,0.011976047904191617
+Brotchen,Butchery,0.004790419161676647
+Brotchen,Neighbors,0.003592814371257485
+Brotchen,Own produce,0.003592814371257485
+Cakes (all types),Supermarket,0.5281954887218046
+Cakes (all types),Open market/ Vendor,0.14285714285714285
+Cakes (all types),Own produce,0.07142857142857142
+Cakes (all types),Shebeen,0.05639097744360902
+Cakes (all types),From relative,0.05451127819548872
+Cakes (all types),Neighbors,0.045112781954887216
+Cakes (all types),Take away,0.03759398496240601
+Cakes (all types),From employer,0.03571428571428571
+Cakes (all types),Other (Specify),0.022556390977443608
+Cakes (all types),Restaurant/ Hotel,0.0037593984962406013
+Cakes (all types),Petrol station,0.0018796992481203006
+"Cooking oil, sunflower",Supermarket,0.8100641467964936
+"Cooking oil, sunflower",Shebeen,0.09624575123310077
+"Cooking oil, sunflower",Open market/ Vendor,0.03572797669247872
+"Cooking oil, sunflower",From relative,0.0251731452375476
+"Cooking oil, sunflower",From employer,0.01063150093281198
+"Cooking oil, sunflower",Neighbors,0.008101408162743745
+"Cooking oil, sunflower",Other (Specify),0.007385826369189092
+"Cooking oil, sunflower",Bottle store,0.0015333895576171127
+"Cooking oil, sunflower",Take away,0.001252268138720642
+"Cooking oil, sunflower",Drought relief,0.0012267116460936902
+"Cooking oil, sunflower",Petrol station,0.0009455902271972194
+"Cooking oil, sunflower",Own produce,0.0008944772419433157
+"Cooking oil, sunflower",Restaurant/ Hotel,0.0006133558230468451
+"Cooking oil, sunflower",Butchery,0.0001022259705078075
+"Cooking oil, sunflower",From nature,0.0001022259705078075
+Mageu/Oshikundu,Own produce,0.8528083381586566
+Mageu/Oshikundu,Open market/ Vendor,0.034279096699478866
+Mageu/Oshikundu,Supermarket,0.03231036479444123
+Mageu/Oshikundu,From relative,0.028604516502605676
+Mageu/Oshikundu,Shebeen,0.02374059061957151
+Mageu/Oshikundu,Neighbors,0.02015055008685582
+Mageu/Oshikundu,Drought relief,0.0031268094962362478
+Mageu/Oshikundu,From employer,0.0022003474232773594
+Mageu/Oshikundu,Other (Specify),0.0018529241459177765
+Mageu/Oshikundu,Take away,0.0004632310364794441
+Mageu/Oshikundu,Petrol station,0.00023161551823972206
+Mageu/Oshikundu,From nature,0.00023161551823972206
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Own produce,0.752961317786415
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Supermarket,0.11937812326485286
+"Mahangu meal/ grain/ samp (pearl millet, raw)",From relative,0.05617249676105867
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Open market/ Vendor,0.049046825837497685
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Neighbors,0.011382565241532482
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Shebeen,0.003192670738478623
+"Mahangu meal/ grain/ samp (pearl millet, raw)",From employer,0.003192670738478623
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Other (Specify),0.0024060707014621507
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Drought relief,0.000832870627429206
+"Mahangu meal/ grain/ samp (pearl millet, raw)",From nature,0.0007403294466037387
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Take away,0.00032389413288913565
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Restaurant/ Hotel,0.000277623542476402
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Bottle store,4.6270590412733666e-05
+"Mahangu meal/ grain/ samp (pearl millet, raw)",Butchery,4.6270590412733666e-05
+Maize meal/ grain/ samp,Supermarket,0.6688658705548591
+Maize meal/ grain/ samp,Drought relief,0.12190187152250885
+Maize meal/ grain/ samp,Shebeen,0.06120384420839656
+Maize meal/ grain/ samp,Open market/ Vendor,0.045083679707945724
+Maize meal/ grain/ samp,From relative,0.030964790745750037
+Maize meal/ grain/ samp,From employer,0.021310285676585078
+Maize meal/ grain/ samp,Own produce,0.018803193244045655
+Maize meal/ grain/ samp,Other (Specify),0.01585626003386774
+Maize meal/ grain/ samp,Neighbors,0.01275538255151635
+Maize meal/ grain/ samp,Petrol station,0.0010996019440962371
+Maize meal/ grain/ samp,Take away,0.0008137054386312155
+Maize meal/ grain/ samp,Bottle store,0.0007477293219854413
+Maize meal/ grain/ samp,Restaurant/ Hotel,0.00041784873875657015
+Maize meal/ grain/ samp,From nature,0.0001539442721734732
+Maize meal/ grain/ samp,Butchery,2.1992038881924744e-05
+Olive oil,Supermarket,0.875968992248062
+Olive oil,From relative,0.046511627906976744
+Olive oil,From employer,0.03875968992248062
+Olive oil,Open market/ Vendor,0.015503875968992248
+Olive oil,Other (Specify),0.015503875968992248
+Olive oil,Own produce,0.007751937984496124
+Pies & pizzas,Supermarket,0.5714285714285714
+Pies & pizzas,Take away,0.18285714285714286
+Pies & pizzas,Restaurant/ Hotel,0.11714285714285715
+Pies & pizzas,Petrol station,0.04285714285714286
+Pies & pizzas,From relative,0.025714285714285714
+Pies & pizzas,Other (Specify),0.02
+Pies & pizzas,Open market/ Vendor,0.017142857142857144
+Pies & pizzas,Neighbors,0.008571428571428572
+Pies & pizzas,Own produce,0.005714285714285714
+Pies & pizzas,From employer,0.005714285714285714
+Pies & pizzas,Butchery,0.002857142857142857
+"Sorghum meal/ grain (whole grain, raw)",Own produce,0.7624633431085044
+"Sorghum meal/ grain (whole grain, raw)",Open market/ Vendor,0.12023460410557185
+"Sorghum meal/ grain (whole grain, raw)",From relative,0.05865102639296188
+"Sorghum meal/ grain (whole grain, raw)",Supermarket,0.03812316715542522
+"Sorghum meal/ grain (whole grain, raw)",Neighbors,0.01466275659824047
+"Sorghum meal/ grain (whole grain, raw)",Take away,0.001466275659824047
+"Sorghum meal/ grain (whole grain, raw)",Drought relief,0.001466275659824047
+"Sorghum meal/ grain (whole grain, raw)",From employer,0.001466275659824047
+"Sorghum meal/ grain (whole grain, raw)",Other (Specify),0.001466275659824047
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",Own produce,0.48677248677248675
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",Open market/ Vendor,0.18306878306878308
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",Supermarket,0.14497354497354498
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",From relative,0.07195767195767196
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",Shebeen,0.05925925925925926
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",Neighbors,0.03597883597883598
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",Take away,0.008465608465608466
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",From employer,0.005291005291005291
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",Other (Specify),0.0031746031746031746
+"Traditional bread, ash bread, oshikwiila, oshima, omungome",Bottle store,0.0010582010582010583
+Vetkoek,Open market/ Vendor,0.514988955506469
+Vetkoek,Shebeen,0.17608078258125592
+Vetkoek,Own produce,0.08993373303881351
+Vetkoek,Neighbors,0.06468917639633955
+Vetkoek,Take away,0.05616913852950457
+Vetkoek,Supermarket,0.05112022720100978
+Vetkoek,From relative,0.02903124013884506
+Vetkoek,Other (Specify),0.012306721363206059
+Vetkoek,Restaurant/ Hotel,0.002208898706216472
+Vetkoek,From employer,0.0018933417481855476
+Vetkoek,Bottle store,0.0009466708740927738
+Vetkoek,Petrol station,0.0006311139160618492
